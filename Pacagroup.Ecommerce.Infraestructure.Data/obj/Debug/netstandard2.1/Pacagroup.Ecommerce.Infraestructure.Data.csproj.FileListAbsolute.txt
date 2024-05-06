@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.deps.json
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.dll
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.pdb
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.csproj.CopyComplete
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.dll
+C:\Users\admin\Documents\C#\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Data.pdb
